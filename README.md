@@ -17,7 +17,7 @@ Hello, My Name is Rony Miah. I am a Front-end Developer. I have Experience React
 <a href="https://discord.gg/9793" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="9793" height="30" width="40" /></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ronymiah&label=Profile%20views&color=0e75b6&style=flat" alt="ronymiah" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronymiah&label=Profile%20views&color=0e75b6&style=flat" alt="ronymiah" /> </p> -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ronymiah" alt="ronymiah" /></a> </p>
 
