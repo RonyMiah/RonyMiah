@@ -47,6 +47,6 @@ Hello, My Name is Rony Miah. I am a Front-end Developer. I have Experience React
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ronymiah&show_icons=true&locale=en&layout=compact" alt="ronymiah" /></p>
 
-<p>&nbsp;<img align="left", display:"block" src="https://github-readme-stats.vercel.app/api?username=ronymiah&show_icons=true&locale=en" alt="ronymiah" /></p>
+<p>&nbsp;<img align="left" display:"block" src="https://github-readme-stats.vercel.app/api?username=ronymiah&show_icons=true&locale=en" alt="ronymiah" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ronymiah&" alt="ronymiah" /></p>
