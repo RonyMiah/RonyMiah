@@ -1,13 +1,12 @@
 ![Junior web developer](https://i.ibb.co/PZdXgFN/Lawyer-SEEK-Cover-Image-1.jpg)
 
-### Hi there 👋, I'm Rony Miah
-#### Junior web developer
+
+<h1 align="center">Hi ⏳ I'm Rony Miah</h1>
+<h3 align="center">Junior M.E.R.N Stack Developer (BD)</h3>
 
 
 Hello, My Name is Rony Miah. I am a Front-end Developer. I have Experience React Last One and Half Years. Make a Full Responsive Website using Html, Css, Bootstrap, Node Js, Express js , React, MongoDB, and using Authentication Firebase, Context Api, and Some knowledge redux. I want to work in an organization where I will learn something new and work with you. Learn something new to become a full-stack developer.
 
-<h1 align="center">Hi ⏳ I'm Rony Miah</h1>
-<h3 align="center">Junior M.E.R.N Stack Developer (BD)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronymiah&label=Profile%20views&color=0e75b6&style=flat" alt="ronymiah" /> </p>
 
