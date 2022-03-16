@@ -19,7 +19,7 @@ Hello, My Name is Rony Miah. I am a Front-end Developer. I have Experience React
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronymiah&label=Profile%20views&color=0e75b6&style=flat" alt="ronymiah" /> </p> -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ronymiah" alt="ronymiah" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ronymiah" alt="ronymiah" /></a> </p>
 
 - 💻 I’m currently working on [portfolio website](https://github.com/RonyMiah/My_Prothfolio_Website)
 
