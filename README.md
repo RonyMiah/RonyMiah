@@ -5,7 +5,7 @@
 <h3 align="center">Junior M.E.R.N Stack Developer (BD)</h3>
 
 
-Hello, My Name is Rony Miah. I am a Front-end Developer. I have Experience React Last One and Half Years. Make a Full Responsive Website using Html, Css, Bootstrap, Node Js, Express js , React, MongoDB, and using Authentication Firebase, Context Api, and Some knowledge redux. I want to work in an organization where I will learn something new and work with you. Learn something new to become a full-stack developer.
+Hello, My Name is Rony Miah. I am a Front-end Developer. I have Experience React Last One and Half Years. Make a Full Responsive Website using Html, Css, Bootstrap, Node Js, Express js , React, MongoDB, and using Authentication Firebase, Context Api, and Some knowledge redux. I want to work in an organization where I will learn something new and work with you. Learn something new to become a full-stack developer ...
 
 <h3 align="Center">Connect with me:</h3>
 <p align="center">
