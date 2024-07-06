@@ -11,11 +11,12 @@ Hello, My Name is Rony Miah. I am a Junior Full Stack Developer. I have experien
 <p align="center">
 <a href="https://linkedin.com/in/ronymiah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ronymiah" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/18237060" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18237060" height="30" width="40" /></a>
-
 <a href="https://www.youtube.com/@booleanprogrammers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucjjnogxarafh8rvopchbusq" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ronymiah2121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ronymiah2121" height="30" width="40" /></a>
 <a href="https://discord.gg/rony076710" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="9793" height="30" width="40" /></a>
 </p>
+
+<p margin-top=""100px><img align="center" margin-top="80px" src="https://github-readme-streak-stats.herokuapp.com/?user=ronymiah&" alt="ronymiah" /></p>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ronymiah&label=Profile%20views&color=0e75b6&style=flat" alt="ronymiah" /> </p> -->
 
@@ -51,4 +52,4 @@ Hello, My Name is Rony Miah. I am a Junior Full Stack Developer. I have experien
 <p>&nbsp;<img align="left"   display:"block" src="https://github-readme-stats.vercel.app/api?username=ronymiah&show_icons=true&locale=en" alt="ronymiah" /></p> 
 </div>
 
-<p margin-top=""100px><img align="center" margin-top="80px" src="https://github-readme-streak-stats.herokuapp.com/?user=ronymiah&" alt="ronymiah" /></p>
+
